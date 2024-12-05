@@ -51,7 +51,6 @@ The Arrowheads successfully rescued Callum, earning the trust of the town and pr
 
 ---
 
----
 
 ## Day 4: Deeper into Ridgefell Mines
 **Location:** Ridgefell Mines - Collapsed Vein  
