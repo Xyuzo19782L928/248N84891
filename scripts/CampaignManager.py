@@ -104,4 +104,8 @@ if __name__ == "__main__":
     manager.update_markdown_section("characters/napy.md", "Inventory", "- Rusty Dagger (Magical)\n- 20 Gold Coins")
 
     # Combine notes into one file
-    manager.combine_markdown
+    manager.combine_markdown_files(
+        "combined_campaign.md",
+        "characters/napy.md",
+        "journal/session_1.md"
+    )
